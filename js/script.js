@@ -19,7 +19,6 @@ b.onclick = (event) => {
 }
 
 /*
-
 function calcular(){
     const b = document.querySelector("#bo");
     const combo = document.querySelector("#operacion");
@@ -36,5 +35,4 @@ function calcular(){
     /*
     var n = document.getElementById("numero").value;
     document.getElementById("resultado").value = Math.sqrt(n);
-
 }*/
